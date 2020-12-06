@@ -1,0 +1,2 @@
+# Ansiblefirstproject
+Basic ansible setup
